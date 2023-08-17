@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
+(I don't know why it plays so slowly. If it's bothersome, the same video is linked below)
 ![Xdt5VHu](https://github.com/1angad/web102_prework/assets/96559688/0c689f9c-5159-4822-812f-52bcb5bff911)
 https://i.imgur.com/Xdt5VHu.mp4
 
